@@ -121,7 +121,7 @@ const me = {
 console.log(me.name);
 console.log(me["age"]);
 ```
-객체라고 부르며, 여러 데이터를 `key: value` 쌍으로 저장한다.  
+객체라고 부르며, **직접 값을 갖지 않고** 다른 데이터들을 `key: value` 쌍으로 저장한다.  
 
 중괄호로 감싸서 작성한다.
 
