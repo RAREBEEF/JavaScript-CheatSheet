@@ -1908,6 +1908,14 @@ console.log(liEl.textContent);
 // "Hello, world!"
 ```
 
+<br/>
+
+### **`.innerText`**
+대상 요소에서 출력할 텍스트를 지정할 수 있다.
+```js
+liEl.innerText = "Hello, world!";
+```
+
 
 <br/>
 
